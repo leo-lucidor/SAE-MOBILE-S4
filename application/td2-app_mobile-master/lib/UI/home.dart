@@ -75,6 +75,7 @@ class _MyWidgetState extends State<MyWidget> {
           ],
           currentIndex: _selectedIndex,
           selectedItemColor: Colors.green,
+          unselectedItemColor: Colors.grey,
           onTap: _onItemTapped,
         ),
     );

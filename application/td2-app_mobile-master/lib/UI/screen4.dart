@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:td2_app_mobile/UI/mytheme.dart';
+import 'package:supabase_quickstart/UI/mytheme.dart';
 import 'package:settings_ui/settings_ui.dart';
 
 class Screen4 extends StatefulWidget {

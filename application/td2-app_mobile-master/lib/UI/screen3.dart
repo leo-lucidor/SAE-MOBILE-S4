@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:td2_app_mobile/UI/mytheme.dart';
-import 'package:td2_app_mobile/models/todo.dart';
-import 'package:td2_app_mobile/api/newapi.dart';
+import 'package:supabase_quickstart/UI/mytheme.dart';
+import 'package:supabase_quickstart/models/todo.dart';
+import 'package:supabase_quickstart/api/newapi.dart';
 
 class Screen3 extends StatelessWidget {
 

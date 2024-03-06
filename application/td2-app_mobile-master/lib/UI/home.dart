@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:td2_app_mobile/UI/mytheme.dart';
-import 'package:td2_app_mobile/models/task.dart';
-import 'package:td2_app_mobile/UI/screen1.dart';
-import 'package:td2_app_mobile/UI/screen2.dart';
-import 'package:td2_app_mobile/UI/screen3.dart';
-import 'package:td2_app_mobile/UI/screen4.dart';
+import 'package:supabase_quickstart/UI/mytheme.dart';
+import 'package:supabase_quickstart/models/task.dart';
+import 'package:supabase_quickstart/UI/screen1.dart';
+import 'package:supabase_quickstart/UI/screen2.dart';
+import 'package:supabase_quickstart/UI/screen3.dart';
+import 'package:supabase_quickstart/UI/screen4.dart';
 
 class MyWidget extends StatefulWidget {
   final Color color;

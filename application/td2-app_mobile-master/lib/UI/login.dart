@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:td2_app_mobile/UI/home.dart';
+import 'package:supabase_quickstart/UI/home.dart';
 
 
 class LoginPage extends StatefulWidget {

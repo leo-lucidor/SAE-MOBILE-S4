@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:td2_app_mobile/models/task.dart';
+import 'package:supabase_quickstart/models/task.dart';
 
 class Detail extends StatelessWidget {
     final Task task;
